@@ -10,7 +10,7 @@ Use: `py -3.11 -m venv .venv` then `.venv\Scripts\activate`.
 Delete `node_modules`, run `npm install` again.
 
 **Can I switch tracks?**  
-Yes—by **Week 2**.
+Yes—before **Week 2**.
 
 **I missed the deadline.**  
 You’re dropped this semester. Apply next time.

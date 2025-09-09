@@ -11,7 +11,7 @@
    – Steps: see `03_Tooling.md`  
 3) **Ship Check 0** (tiny first build) and **submit**.  
    – Spec + rubric: `04_Ship_Check_0.md`  
-   – Submit via **[Ship Check 0 Submission Form](https://REPLACE-ME)** by **Fri, Sept 12, 5:00 PM ET**
+   – Submit via **[Ship Check 0 Submission Form](https://forms.gle/4mGYjAZ4BKYZHUg2A)** by **Fri, Sept 12, 5:00 PM ET**
 
 > **No-show** at kickoff without notice = removed.  
 > **Excused Path** requires you to fill **[RSVP “Can’t Attend”](https://REPLACE-ME)** by **Wed, Sept 10, 12:00 PM ET**.

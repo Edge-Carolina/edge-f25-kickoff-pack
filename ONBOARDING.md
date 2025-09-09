@@ -1,7 +1,8 @@
 # Onboarding — Slack & GitHub
 
 ## Slack
-Join: https://REPLACE-WITH-SLACK-INVITE  
+Join: [Slack](https://join.slack.com/t/edge-labs-group/shared_invite/zt-3cu0axi53-cGQqCySZPys5qcUVQF4pYg)
+
 Auto-add channels:
 - `#announcements` — official updates, policies, deadlines
 - `#ship-check` — weekly specs and submissions

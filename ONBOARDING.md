@@ -24,4 +24,4 @@ Auto-add channels:
 - `pod-<name>-f25-<project>`
 
 ## Access
-If your repo is private, grant **@Edge-Carolina** (or the grading team) read access.
+If your repo is private, grant **@Edge-Carolina** (or the leadership team) read access.

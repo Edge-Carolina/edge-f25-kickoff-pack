@@ -1,4 +1,4 @@
-# Ship Check 0 (Due Fri, Sept 12, 5:00 PM ET)
+# Ship Check 0 (Due Friday, Sept 12, 5:00 PM ET)
 
 **Goal:** Prove your environment works and ship something tiny. Choose **one** option.
 

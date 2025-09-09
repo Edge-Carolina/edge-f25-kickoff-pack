@@ -17,7 +17,7 @@
 > **Excused Path** requires you to fill **[RSVP “Can’t Attend”](https://REPLACE-ME)** by **Wed, Sept 10, 12:00 PM ET**.
 
 ## Links
-- Slides (PDF): add `01_Slides.pdf` to this repo (or link it here).
+- Slides (PDF): add `01_Slides.pdf` to this repo.
 - Recording link: see `02_Recording.md`
 - Policies: `05_Policies.md`
 - Onboarding (Slack, GitHub org): `07_Onboarding.md`

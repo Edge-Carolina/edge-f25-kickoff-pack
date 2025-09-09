@@ -12,9 +12,6 @@ Delete `node_modules`, run `npm install` again.
 **Can I switch tracks?**  
 Yes—before **Week 3**.
 
-**I missed the deadline.**  
-You’re dropped this semester. Apply next time.
-
 **What’s a Pod Ship?**  
 A bi-weekly team increment with a short demo and ≥2 member PRs.
 

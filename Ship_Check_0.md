@@ -53,7 +53,7 @@
 ---
 
 ## Submission (required)
-- Fill the **[Ship Check 0 Submission Form](https://REPLACE-ME)** with:
+- Fill the **[Ship Check 0 Submission Form](https://forms.gle/4mGYjAZ4BKYZHUg2A)** with:
   - Repo URL
   - Screenshot URL (or confirm it’s in the repo)
   - Track (Apprentice/Core), minutes spent, biggest blocker

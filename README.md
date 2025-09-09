@@ -24,5 +24,5 @@
 - FAQ: `08_FAQ.md`
 - Form fields (for admins building forms): `09_Forms.md`
 
-**Support:** Post in **#help-setup** on Slack or email **contact@REPLACE-ME**.  
+**Support:** Post in **#help** on Slack.  
 **Roster locks after Week 2.** Two misses/late = dropped. Details in `05_Policies.md`.

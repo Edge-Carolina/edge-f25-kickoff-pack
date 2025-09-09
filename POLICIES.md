@@ -23,4 +23,4 @@
 - Weekly ships live in `ships/shipN/`
 - Pod repos: `pod-<name>-f25-<project>`
 
-Questions: post in **#announcements** (policy) or **#help-setup** (tech).
+Questions: post in **#help** (tech).

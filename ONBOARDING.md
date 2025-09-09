@@ -5,11 +5,10 @@ Join: [Slack](https://join.slack.com/t/edge-labs-group/shared_invite/zt-3cu0axi5
 
 Auto-add channels:
 - `#announcements` — official updates, policies, deadlines
+- `#edge-labs` - general discussions related to Edge Labs
 - `#ship-check` — weekly specs and submissions
-- `#help-setup` — tooling help, errors
+- `#help` — tooling help, errors
 - `#pods` — team formation, coordination
-Optional:
-- `#wins` — demos, screenshots
 
 ## GitHub
 - Org: **Edge Carolina** (you’ll receive an invite)

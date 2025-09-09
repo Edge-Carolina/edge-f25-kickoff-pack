@@ -16,4 +16,4 @@ Yes—before **Week 3**.
 A bi-weekly team increment with a short demo and ≥2 member PRs.
 
 **Where do I ask questions?**  
-Tech: `#help-setup`. Policy/logistics: `#announcements`.
+Tech: `#help`. Policy/logistics: `#announcements`.

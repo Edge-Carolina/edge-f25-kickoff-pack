@@ -13,4 +13,4 @@
 5. **What’s next (1–2 min)** — Week 2 pods form; Week 3+ pod cadence.
 
 ## Slides
-Export your kickoff deck to **01_Slides.pdf** (or link it here).
+[Slides](https://1drv.ms/p/c/38263c2fff7d42e1/EaBm4TXs-rlBhNBjnVRogHIBRY4gO2mcLe1azPaOtYcV1w?e=Y1jupZ)

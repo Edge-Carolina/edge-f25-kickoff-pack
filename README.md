@@ -1,28 +1,39 @@
-# Edge Labs — Kickoff Pack (Fall 2025)
+# Ship Check 0 (Due Friday, Sept 12, 11:59 PM ET)
 
-**Who uses this?** Accepted members who can’t attend the in-person kickoff.  
-**Mandatory window:** **Kickoff (in-person)** is **Wed, Sept 10, 6:00–7:20 PM ET** in Peabody 2072.  
-**Excused Path deadline:** **Fri, Sept 12, 11:59 PM ET** (complete everything below to keep your spot).
+**Goal:** Prove your environment works and ship something tiny. Every repo has **two tracks**:
 
-## Do these 3 things (all required)
-1) **Watch** the kickoff recording and **skim** the slides.  
-   – Recording (10–15 min): see `02_Recording.md`  
-2) **Set up tools** for your track (Python *or* Node) and **verify**.  
-   – Steps: see `03_Tooling.md`  
-3) **Ship Check 0** (tiny first build) and **submit**.  
-   – Spec + rubric: `04_Ship_Check_0.md`  
-   – Submit via **[Ship Check 0 Submission Form](https://forms.gle/4mGYjAZ4BKYZHUg2A)** by **Fri, Sept 12, 11:59 PM ET**
+* A gentle **Baseline** (required) to check your setup.
+* An optional **Hard Mode** (scored) that asks you to extend it with real persistence + tests.
 
-> **No-show** at kickoff without notice = removed.  
-> **Excused Path** requires you to fill **[RSVP “Can’t Attend”](https://REPLACE-ME)** by **Wed, Sept 10, 12:00 PM ET**.
+**Repo naming (required):** `edge-f25-ship0-<onyen-or-last-first>`
+**Visibility:** Public (or grant org access).
+**Commits:** ≥2 (not one big dump).
 
-## Links
-- Slides (PDF): add `01_Slides.pdf` to this repo.
-- Recording link: see `02_Recording.md`
-- Policies: `05_Policies.md`
-- Onboarding (Slack, GitHub org): `07_Onboarding.md`
-- FAQ: `08_FAQ.md`
-- Form fields (for admins building forms): `09_Forms.md`
+---
 
-**Support:** Post in **#help** on Slack.  
-**Roster locks after Week 2.** Two misses/late = dropped. Details in `05_Policies.md`.
+## Tracks
+
+* **Python Ship Check**: Baseline = run an env check script + set a semester goal.
+  Hard Mode = build a tiny CLI with persistence + pytest.
+
+* **Node/JS Ship Check**: Baseline = browser app that saves entries in localStorage.
+  Hard Mode = add edit/delete/filter logic with tests (Vitest).
+
+Pick whichever language track you want. Everyone must finish **Baseline**. Hard Mode is optional but recommended if you’re comfortable.
+
+---
+
+## Submission (required)
+
+* Fill the **[Ship Check 0 Submission Form](https://forms.gle/4mGYjAZ4BKYZHUg2A)** with:
+
+  * Repo URL
+  * Screenshot URL (or confirm it’s in the repo)
+  * Track + Baseline/Hard Mode, minutes spent, biggest blocker
+
+**Miss the deadline = dropped.** Roster locks after Week 2.
+
+
+This way, the high-level description matches the *structure* of both sets of detailed instructions: everyone does a Baseline, Hard Mode is opt-in, both Python and Node follow the same repo/submission rules.
+
+Do you want me to also tighten up the “Pass if all true” checklists so they’re parallel across Python and Node? Right now they’re slightly different in tone and length.

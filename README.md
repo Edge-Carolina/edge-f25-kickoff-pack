@@ -2,7 +2,7 @@
 
 **Who uses this?** Accepted members who can’t attend the in-person kickoff.  
 **Mandatory window:** **Kickoff (in-person)** is **Wed, Sept 10, 6:00–7:20 PM ET** in Peabody 2072.  
-**Excused Path deadline:** **Fri, Sept 12, 5:00 PM ET** (complete everything below to keep your spot).
+**Excused Path deadline:** **Fri, Sept 12, 11:59 PM ET** (complete everything below to keep your spot).
 
 ## Do these 3 things (all required)
 1) **Watch** the kickoff recording and **skim** the slides.  

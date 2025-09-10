@@ -13,10 +13,10 @@
 
 ## Tracks
 
-* **Python Ship Check**: Baseline = run an env check script + set a semester goal.
+* [**Python Ship Check**](https://github.com/Edge-Carolina/ship0-template-python): Baseline = run an env check script + set a semester goal.
   Hard Mode = build a tiny CLI with persistence + pytest.
 
-* **Node/JS Ship Check**: Baseline = browser app that saves entries in localStorage.
+* [**Node/JS Ship Check**](https://github.com/Edge-Carolina/ship0-template-node): Baseline = browser app that saves entries in localStorage.
   Hard Mode = add edit/delete/filter logic with tests (Vitest).
 
 Pick whichever language track you want. Everyone must finish **Baseline**. Hard Mode is optional but recommended if you’re comfortable.

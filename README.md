@@ -32,8 +32,3 @@ Pick whichever language track you want. Everyone must finish **Baseline**. Hard 
   * Track + Baseline/Hard Mode, minutes spent, biggest blocker
 
 **Miss the deadline = dropped.** Roster locks after Week 2.
-
-
-This way, the high-level description matches the *structure* of both sets of detailed instructions: everyone does a Baseline, Hard Mode is opt-in, both Python and Node follow the same repo/submission rules.
-
-Do you want me to also tighten up the “Pass if all true” checklists so they’re parallel across Python and Node? Right now they’re slightly different in tone and length.
